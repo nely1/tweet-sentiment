@@ -1,4 +1,6 @@
-# tweet-sentiment
+# Tweet-sentiment
+
+**Report is attached in repository**
 
 A machine learning project to classify whether a tweet is positive, neutral or negative
 
